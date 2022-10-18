@@ -10,7 +10,7 @@
     src="./octocat-icon.png"
     alt="Octocat Avatar"
     align="right"
-    width="290"
+    width="250"
   />
 
   - Meus pronomes são ela/dela 👩‍💻
