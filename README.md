@@ -1,10 +1,18 @@
+<!-- CABEÇALHO -->
+
+<img
+  align="center"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6e96,100:ffc0cb&height=200&section=header"
+/>
+
 <!-- SOBRE MIM -->
 
 <div>
-
-  <h1 align="center">
-    Oi, eu sou a Mariana! 👋
-  </h1>
+  
+  <img
+    align="center"
+    src="https://capsule-render.vercel.app/api?type=transparent&color=0:ff6e96,100:ffc0cb&height=40&section=header&text=Oi%2C%20eu%20sou%20a%20Mariana%21%20%F0%9F%91%8B&fontSize=30&fontColor=ffc0cb"
+  />
  
   <img
     src="./octocat-icon.png"
@@ -25,11 +33,16 @@
  
 </div>
 
+<hr>
+
 <!-- TECNOLOGIAS -->
 
 <div align="center">
 
-  # Tecnologias e ferramentas que estou aprendendo
+  <img
+      align="center"
+      src="https://capsule-render.vercel.app/api?type=transparent&color=0:ff6e96,100:ffc0cb&height=40&section=header&text=Tecnologias%20e%20ferramentas%20que%20estou%20aprendendo&fontSize=30&fontColor=ffc0cb"
+   />
 
   <img
     src="http://38.media.tumblr.com/1533c2ae6c8552abf0ed57f51270dcf6/tumblr_n7uio3XBt11tfoqqlo1_500.gif"
@@ -115,11 +128,16 @@
 
 </div>
 
+<hr>
+
 <!-- ESTATÍSTICAS -->
 
 <div align="center">
 
-  # Minhas estatísticas aqui no GitHub
+  <img
+    align="center"
+    src="https://capsule-render.vercel.app/api?type=transparent&color=0:ff6e96,100:ffc0cb&height=40&section=header&text=Minhas%20estat%C3%ADsticas%20aqui%20no%20GitHub&fontSize=30&fontColor=ffc0cb"
+  />
 
   <a href="https://github.com/marianaapereira/">
     <img width="500px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marianaapereira&theme=dracula"/>
@@ -142,11 +160,16 @@
 
 </div>
 
+<hr>
+
 <!-- CONTATOS -->
 
 <div align="center">
 
-  # Onde você pode me encontrar
+  <img
+    align="center"
+    src="https://capsule-render.vercel.app/api?type=transparent&color=0:ff6e96,100:ffc0cb&height=40&section=header&text=Onde%20voc%C3%AA%20pode%20me%20encontrar&fontSize=30&fontColor=ffc0cb"
+  />
 
   <img
     src="https://media.tenor.com/X1MxQbJSRHYAAAAC/pusheen-cat.gif"
@@ -164,3 +187,10 @@
   </a>
 
 </div>
+
+<!-- RODAPÉ -->
+
+<img
+  align="center"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6e96,100:ffc0cb&height=150&section=footer&reversal=true"
+/>
