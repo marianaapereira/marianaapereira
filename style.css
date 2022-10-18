@@ -1,0 +1,36 @@
+/* GERAL */
+
+h1 {
+  color: pink;
+  text-align: center;
+}
+
+div {
+  margin-bottom: 2em;
+}
+
+/* SOBRE MIM */
+
+#about-me img {
+  width: 22em;
+}
+
+#about-me ul li {
+  padding: 5px;
+}
+
+#about-me a {
+  color: pink;
+  text-decoration: none;
+}
+
+#about-me strong {
+  color: pink;
+  text-decoration: underline wavy pink;
+}
+
+/* ESTATÍSTICAS */
+
+#stats img {
+  width: 30em;
+}
