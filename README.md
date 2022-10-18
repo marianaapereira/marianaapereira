@@ -1,17 +1,16 @@
-<!-- CSS -->
-
-<link rel="stylesheet" type="text/css" href="./style.css">
-
 <!-- SOBRE MIM -->
 
-<div id="about-me">
+<div>
 
-  # Oi, eu sou a Mariana! 👋
-
+  <h1 align="center">
+    Oi, eu sou a Mariana! 👋
+  </h1>
+ 
   <img
     src="./octocat-icon.png"
     alt="Octocat Avatar"
     align="right"
+    width="290"
   />
 
   - Meus pronomes são ela/dela 👩‍💻
@@ -23,7 +22,7 @@
   - Gosto de ler e de colecionar livros 📚
   - Amo jogos (meus favoritos são Sudoku, Nonogramas, Campo Minado, Enigma de Einsten... e Minecraft) 🎮
   - Sou artesã no meu tempo livre 🧶
-
+ 
 </div>
 
 <!-- TECNOLOGIAS -->
@@ -33,10 +32,10 @@
   # Tecnologias e ferramentas que estou aprendendo
 
   <img
-    src="https://media.tenor.com/aM_wQMBzAKAAAAAC/cat-typing.gif"
+    src="http://38.media.tumblr.com/1533c2ae6c8552abf0ed57f51270dcf6/tumblr_n7uio3XBt11tfoqqlo1_500.gif"
     alt="cat typing gif"
   />
-
+  <br>
   <img
     src="https://img.shields.io/badge/Linux-ff6e96?style=for-the-badge&logo=linux&logoColor=white"
     alt="Linux logo"
@@ -118,24 +117,27 @@
 
 <!-- ESTATÍSTICAS -->
 
-<div id="stats" align="center">
+<div align="center">
 
   # Minhas estatísticas aqui no GitHub
 
   <a href="https://github.com/marianaapereira/">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marianaapereira&theme=dracula"/>
+    <img width="500px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marianaapereira&theme=dracula"/>
   </a>
-
+  <br>
+  <br>
   <a href="https://github.com/marianaapereira/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=marianaapereira&count_private=true&show_icons=true&theme=dracula"/>
+    <img width="500px" align="center" src="https://github-readme-stats.vercel.app/api?username=marianaapereira&count_private=true&show_icons=true&theme=dracula"/>
   </a>
-
+  <br>
+  <br>
   <a href="https://github.com/marianaapereira/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianaapereira&layout=compact&count_private=true&show_icons=true&theme=dracula"/>
+    <img width="500px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianaapereira&layout=compact&count_private=true&show_icons=true&theme=dracula"/>
   </a>
-
+  <br>
+  <br>
   <a href="https://github.com/marianaapereira/marianaapereira">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marianaapereira&repo=marianaapereira&theme=dracula"/>
+    <img width="500px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marianaapereira&repo=marianaapereira&theme=dracula"/>
   </a>
 
 </div>
@@ -150,7 +152,7 @@
     src="https://media.tenor.com/X1MxQbJSRHYAAAAC/pusheen-cat.gif"
     alt="cat typing gif"
   />
-
+  <br>
   <a href="https://www.linkedin.com/in/mariana-aparecida-pereira/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-ff6e96?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
