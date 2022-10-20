@@ -176,6 +176,9 @@
     alt="cat typing gif"
   />
   <br>
+  <a href = "https://marianaapereira.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-ff6e96?style=for-the-badge&logo=GitHub-Sponsors&logoColor=white" target="_blank">
+  </a>
   <a href="https://www.linkedin.com/in/mariana-aparecida-pereira/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-ff6e96?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
