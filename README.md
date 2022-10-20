@@ -1,8 +1,9 @@
 <!-- CABEÇALHO -->
 
 <img
-  align="center"
   src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6e96,100:ffc0cb&height=200&section=header"
+  alt="header"
+  align="center"
 />
 
 <!-- SOBRE MIM -->
@@ -10,8 +11,8 @@
 <div>
   
   <img
-    align="center"
     src="https://capsule-render.vercel.app/api?type=transparent&color=0:ff6e96,100:ffc0cb&height=40&section=header&text=Oi%2C%20eu%20sou%20a%20Mariana%21%20%F0%9F%91%8B&fontSize=30&fontColor=ffc0cb"
+    alt="Oi, eu sou a Mariana"
   />
  
   <img
@@ -23,14 +24,23 @@
 
   - Meus pronomes são ela/dela 👩‍💻
   - Atualmente estou estudando Desenvolvimento Web na [Trybe](https://www.betrybe.com/) 🚀
+  - Sou Técnica em Informática 💻
   - Me considero escritora por amor (de textos e códigos) 💗
   - Minha cor favorita é <strong>rosa</strong> 🧠
   - Sou apaixonada por gatinhos 🐈
-  - Não gosto muito de café, mas bebo diariamente ☕ 
-  - Gosto de ler e de colecionar livros 📚
-  - Amo jogos (meus favoritos são Sudoku, Nonogramas, Campo Minado, Enigma de Einsten... e Minecraft) 🎮
-  - Sou artesã no meu tempo livre 🧶
- 
+  - Meus jogos favoritos são Sudoku, Nonogramas, Campo Minado, Enigma de Einsten... e Minecraft 🎮
+  - <details>
+
+      <summary>Meu setup</summary>
+      <br>
+      <img src="https://img.shields.io/badge/lenovo%20laptop-ff6e96?style=for-the-badge&logo=lenovo&logoColor=white" alt="Lenovo laptop"/>
+      <img src="https://img.shields.io/badge/windows-%23ff6e96.svg?&style=for-the-badge&logo=windows&logoColor=white" alt="Windows logo"/>
+      <img src="https://img.shields.io/badge/intel-core%20i5%207th-%23ff6e96.svg?&style=for-the-badge&logo=intel&logoColor=white" alt="Intel Core i5"/>
+      <img src="https://img.shields.io/badge/RAM-20GB-%23ff6e96.svg?&style=for-the-badge&logoColor=white" alt="RAM spec"/>
+      <!-- <img src="https://img.shields.io/badge/nvidia-gtx%201650-%23ff6e96.svg?&style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA logo"/> -->
+
+  </details>
+
 </div>
 
 <hr>
@@ -40,15 +50,15 @@
 <div align="center">
 
   <img
-      align="center"
       src="https://capsule-render.vercel.app/api?type=transparent&color=0:ff6e96,100:ffc0cb&height=40&section=header&text=Tecnologias%20e%20ferramentas%20que%20estou%20aprendendo&fontSize=30&fontColor=ffc0cb"
+      alt="Tecnologias e ferramentas que estou aprendendo"
    />
 
   <img
     src="http://38.media.tumblr.com/1533c2ae6c8552abf0ed57f51270dcf6/tumblr_n7uio3XBt11tfoqqlo1_500.gif"
     alt="cat typing gif"
   />
-  <br>
+
   <img
     src="https://img.shields.io/badge/Linux-ff6e96?style=for-the-badge&logo=linux&logoColor=white"
     alt="Linux logo"
@@ -135,28 +145,35 @@
 <div align="center">
 
   <img
-    align="center"
     src="https://capsule-render.vercel.app/api?type=transparent&color=0:ff6e96,100:ffc0cb&height=40&section=header&text=Minhas%20estat%C3%ADsticas%20aqui%20no%20GitHub&fontSize=30&fontColor=ffc0cb"
+    alt="Minhas estatísticas aqui no GitHub"
   />
 
-  <a href="https://github.com/marianaapereira/">
-    <img width="500px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marianaapereira&theme=dracula"/>
-  </a>
+  <img
+    width="500px"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=marianaapereira&theme=dracula"
+    alt="dias de ofensiva"
+  />
   <br>
+  <img
+    width="500px"
+    src="https://github-readme-stats.vercel.app/api?username=marianaapereira&count_private=true&show_icons=true&theme=dracula"
+    alt="estatísticas gerais"
+  />
   <br>
-  <a href="https://github.com/marianaapereira/">
-    <img width="500px" align="center" src="https://github-readme-stats.vercel.app/api?username=marianaapereira&count_private=true&show_icons=true&theme=dracula"/>
-  </a>
+  <img
+    width="500px"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianaapereira&layout=compact&count_private=true&show_icons=true&theme=dracula"
+    alt="linguagens mais usadas"
+  />
   <br>
-  <br>
-  <a href="https://github.com/marianaapereira/">
-    <img width="500px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianaapereira&layout=compact&count_private=true&show_icons=true&theme=dracula"/>
-  </a>
-  <br>
-  <br>
-  <a href="https://github.com/marianaapereira/marianaapereira">
-    <img width="500px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marianaapereira&repo=marianaapereira&theme=dracula"/>
-  </a>
+    <!--
+    <img
+      width="500px"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=marianaapereira&repo=marianaapereira&theme=dracula"
+      alt="link para repositório"
+    />
+    -->
 
 </div>
 
@@ -167,8 +184,8 @@
 <div align="center">
 
   <img
-    align="center"
     src="https://capsule-render.vercel.app/api?type=transparent&color=0:ff6e96,100:ffc0cb&height=40&section=header&text=Onde%20voc%C3%AA%20pode%20me%20encontrar&fontSize=30&fontColor=ffc0cb"
+    alt="Onde você pode me encontrar"
   />
 
   <img
@@ -194,6 +211,6 @@
 <!-- RODAPÉ -->
 
 <img
-  align="center"
   src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6e96,100:ffc0cb&height=150&section=footer&reversal=true"
+  alt="footer"
 />
