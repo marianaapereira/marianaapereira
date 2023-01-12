@@ -1,11 +1,3 @@
-<!-- CABEÇALHO -->
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6e96,100:ffc0cb&height=200&section=header"
-  alt="header"
-  align="center"
-/>
-
 <!-- SOBRE MIM -->
 
 <div>
@@ -29,7 +21,7 @@
   - Minha cor favorita é <strong>rosa</strong> 🧠
   - Sou apaixonada por gatinhos 🐈
   - Meus jogos favoritos são Sudoku, Nonogramas, Campo Minado, Enigma de Einsten... e Minecraft 🎮
-  - <details>
+<!--   - <details>
 
       <summary>Meu setup</summary>
       <br>
@@ -37,7 +29,7 @@
       <img src="https://img.shields.io/badge/windows-%23ff6e96.svg?&style=for-the-badge&logo=windows&logoColor=white" alt="Windows logo"/>
       <img src="https://img.shields.io/badge/intel-core%20i5%207th-%23ff6e96.svg?&style=for-the-badge&logo=intel&logoColor=white" alt="Intel Core i5"/>
       <img src="https://img.shields.io/badge/RAM-20GB-%23ff6e96.svg?&style=for-the-badge&logoColor=white" alt="RAM spec"/>
-      <!-- <img src="https://img.shields.io/badge/nvidia-gtx%201650-%23ff6e96.svg?&style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA logo"/> -->
+      <img src="https://img.shields.io/badge/nvidia-gtx%201650-%23ff6e96.svg?&style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA logo"/> -->
 
   </details>
 
@@ -207,10 +199,3 @@
   </a>
 
 </div>
-
-<!-- RODAPÉ -->
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6e96,100:ffc0cb&height=150&section=footer&reversal=true"
-  alt="footer"
-/>
