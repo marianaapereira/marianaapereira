@@ -7,12 +7,12 @@
     alt="Oi, eu sou a Mariana"
   />
  
-  <img
+<!--   <img
     src="./octocat-icon.png"
     alt="Octocat Avatar"
     align="right"
-    width="250"
-  />
+    width="200"
+  /> -->
 
   - Meus pronomes são ela/dela 👩‍💻
   - Atualmente estou estudando Desenvolvimento Web na [Trybe](https://www.betrybe.com/) 🚀
