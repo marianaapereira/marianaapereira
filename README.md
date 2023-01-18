@@ -21,17 +21,6 @@
   - Minha cor favorita é <strong>rosa</strong> 🧠
   - Sou apaixonada por gatinhos 🐈
   - Meus jogos favoritos são Sudoku, Nonogramas, Campo Minado, Enigma de Einsten... e Minecraft 🎮
-<!--   - <details>
-
-      <summary>Meu setup</summary>
-      <br>
-      <img src="https://img.shields.io/badge/lenovo%20laptop-ff6e96?style=for-the-badge&logo=lenovo&logoColor=white" alt="Lenovo laptop"/>
-      <img src="https://img.shields.io/badge/windows-%23ff6e96.svg?&style=for-the-badge&logo=windows&logoColor=white" alt="Windows logo"/>
-      <img src="https://img.shields.io/badge/intel-core%20i5%207th-%23ff6e96.svg?&style=for-the-badge&logo=intel&logoColor=white" alt="Intel Core i5"/>
-      <img src="https://img.shields.io/badge/RAM-20GB-%23ff6e96.svg?&style=for-the-badge&logoColor=white" alt="RAM spec"/>
-      <img src="https://img.shields.io/badge/nvidia-gtx%201650-%23ff6e96.svg?&style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA logo"/> -->
-
-  </details>
 
 </div>
 
@@ -49,6 +38,7 @@
   <img
     src="http://38.media.tumblr.com/1533c2ae6c8552abf0ed57f51270dcf6/tumblr_n7uio3XBt11tfoqqlo1_500.gif"
     alt="cat typing gif"
+    width="350"
   />
 
   <img
@@ -142,19 +132,19 @@
   />
 
   <img
-    width="500px"
+    width="450px"
     src="https://github-readme-streak-stats.herokuapp.com/?user=marianaapereira&theme=dracula"
     alt="dias de ofensiva"
   />
   <br>
   <img
-    width="500px"
+    width="450px"
     src="https://github-readme-stats.vercel.app/api?username=marianaapereira&count_private=true&show_icons=true&theme=dracula"
     alt="estatísticas gerais"
   />
   <br>
   <img
-    width="500px"
+    width="450px"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianaapereira&layout=compact&count_private=true&show_icons=true&theme=dracula"
     alt="linguagens mais usadas"
   />
@@ -183,16 +173,17 @@
   <img
     src="https://media.tenor.com/X1MxQbJSRHYAAAAC/pusheen-cat.gif"
     alt="cat typing gif"
+    width="300"
   />
   <br>
   <a href = "https://marianaapereira.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-ff6e96?style=for-the-badge&logo=GitHub-Sponsors&logoColor=white" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/mariana-aparecida-pereira/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-ff6e96?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-ff6e96?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href = "mailto:marianapereira.s@live.com">
-    <img src="https://img.shields.io/badge/Gmail-ff6e96?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/email-ff6e96?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   <a href = "https://open.spotify.com/user/12153763275?si=24cbd48668df4d49">
     <img src="https://img.shields.io/badge/Spotify-ff6e96?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank">
