@@ -2,11 +2,13 @@
 
 <div>
   
-  <img
-    src="https://capsule-render.vercel.app/api?type=transparent&color=0:ff6e96,100:ffc0cb&height=40&section=header&text=Oi%2C%20eu%20sou%20a%20Mariana%21%20%F0%9F%91%8B&fontSize=30&fontColor=ffc0cb"
-    alt="Oi, eu sou a Mariana"
-  />
- 
+  <div align="center">
+    <img
+      src="https://capsule-render.vercel.app/api?type=transparent&color=0:ff6e96,100:ffc0cb&height=40&section=header&text=Oi%2C%20eu%20sou%20a%20Mariana%21%20%F0%9F%91%8B&fontSize=25&fontColor=ffc0cb"
+      alt="Oi, eu sou a Mariana"
+    />
+  </div>  
+    
 <!--   <img
     src="./octocat-icon.png"
     alt="Octocat Avatar"
@@ -31,7 +33,7 @@
 <div align="center">
 
   <img
-      src="https://capsule-render.vercel.app/api?type=transparent&color=0:ff6e96,100:ffc0cb&height=40&section=header&text=Tecnologias%20e%20ferramentas%20que%20estou%20aprendendo&fontSize=30&fontColor=ffc0cb"
+      src="https://capsule-render.vercel.app/api?type=transparent&color=0:ff6e96,100:ffc0cb&height=40&section=header&text=Tecnologias%20e%20ferramentas%20que%20estou%20aprendendo&fontSize=25&fontColor=ffc0cb"
       alt="Tecnologias e ferramentas que estou aprendendo"
    />
 
@@ -127,7 +129,7 @@
 <div align="center">
 
   <img
-    src="https://capsule-render.vercel.app/api?type=transparent&color=0:ff6e96,100:ffc0cb&height=40&section=header&text=Minhas%20estat%C3%ADsticas%20aqui%20no%20GitHub&fontSize=30&fontColor=ffc0cb"
+    src="https://capsule-render.vercel.app/api?type=transparent&color=0:ff6e96,100:ffc0cb&height=40&section=header&text=Minhas%20estat%C3%ADsticas%20aqui%20no%20GitHub&fontSize=25&fontColor=ffc0cb"
     alt="Minhas estatísticas aqui no GitHub"
   />
 
@@ -166,7 +168,7 @@
 <div align="center">
 
   <img
-    src="https://capsule-render.vercel.app/api?type=transparent&color=0:ff6e96,100:ffc0cb&height=40&section=header&text=Onde%20voc%C3%AA%20pode%20me%20encontrar&fontSize=30&fontColor=ffc0cb"
+    src="https://capsule-render.vercel.app/api?type=transparent&color=0:ff6e96,100:ffc0cb&height=40&section=header&text=Onde%20voc%C3%AA%20pode%20me%20encontrar&fontSize=25&fontColor=ffc0cb"
     alt="Onde você pode me encontrar"
   />
 
