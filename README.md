@@ -9,20 +9,23 @@
     />
   </div>  
     
-<!--   <img
+  <img
     src="./octocat-icon.png"
     alt="Octocat Avatar"
     align="right"
     width="200"
-  /> -->
+  />
 
   - Meus pronomes são ela/dela 👩‍💻
-  - Atualmente estou estudando Desenvolvimento Web na [Trybe](https://www.betrybe.com/) 🚀
-  - Sou Técnica em Informática 💻
-  - Me considero escritora por amor (de textos e códigos) 💗
+  - Atualmente estou estudando Desenvolvimento Web Full Stack na [Trybe](https://www.betrybe.com/) 🚀
+  - Sou desenvolvedora front-end e técnica em informática 💻
+  - Desde pequena sempre fui apaixonada por tecnologia 📺
+  - Adoro desafios, resolver problemas e aprender coisas novas 📝
+  - Me considero escritora por amor (de textos e códigos) ✍
+  - Meus jogos favoritos são Sudoku, Nonogramas, Campo Minado, Enigma de Einsten... e Minecraft 🎮
   - Minha cor favorita é <strong>rosa</strong> 🧠
   - Sou apaixonada por gatinhos 🐈
-  - Meus jogos favoritos são Sudoku, Nonogramas, Campo Minado, Enigma de Einsten... e Minecraft 🎮
+  - No meu tempo livre sou artesã, confeiteira e ávida leitora 📚
 
 </div>
 
@@ -151,13 +154,6 @@
     alt="linguagens mais usadas"
   />
   <br>
-    <!--
-    <img
-      width="500px"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=marianaapereira&repo=marianaapereira&theme=dracula"
-      alt="link para repositório"
-    />
-    -->
 
 </div>
 
@@ -181,14 +177,11 @@
   <a href = "https://marianaapereira.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-ff6e96?style=for-the-badge&logo=GitHub-Sponsors&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/mariana-aparecida-pereira/" target="_blank">
+  <a href="https://www.linkedin.com/in/marianaaparecidapereira/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-ff6e96?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href = "mailto:marianapereira.s@live.com">
     <img src="https://img.shields.io/badge/email-ff6e96?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href = "https://open.spotify.com/user/12153763275?si=24cbd48668df4d49">
-    <img src="https://img.shields.io/badge/Spotify-ff6e96?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank">
   </a>
 
 </div>
