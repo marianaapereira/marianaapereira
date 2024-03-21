@@ -27,6 +27,8 @@
   - Sou apaixonada por gatinhos 🐈
   - No meu tempo livre sou artesã, confeiteira e ávida leitora 📚
 
+[![wakatime](https://wakatime.com/badge/user/d430e1a8-f726-4da0-96fd-ac14f7a37701.svg)](https://wakatime.com/@d430e1a8-f726-4da0-96fd-ac14f7a37701)
+
 </div>
 
 <hr>
